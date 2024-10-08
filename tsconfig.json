@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"jsx": "react",
+		"noEmit": true,
+		"strict": true,
+		"moduleResolution": "node",
+		"module": "esnext",
+		"typeRoots": ["./types", "./node_modules/@types", "./src/types"],
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true
+	},
+	"include": [
+		"eslint.config.js",
+		"src",
+		"gatsby-config.js",
+		"gatsby-node.js",
+		"gatsby-browser.js",
+		"tailwind.config.js",
+		"postcss.config.js",
+		"netlify/**/*.ts",
+		"gatsby-types.d.ts"
+	]
+}
