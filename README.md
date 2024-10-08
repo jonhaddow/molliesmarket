@@ -1,6 +1,6 @@
-# Gatsby Wastefree
+# Mollie's Market
 
-A static blog built using gatsby.
+A static site built using gatsby.
 
 ## Running locally
 
