@@ -5,8 +5,8 @@ import fetch from "node-fetch";
  * Serverless function to proxy to etsy product listing images.
  */
 export const handler: Handler = async (event) => {
-	const listingId = event.queryStringParameters?.listingId;
-	if (!listingId) {
+	const listingIds = event.queryStringParameters?.listingIds;
+	if (!listingIds) {
 		return {
 			statusCode: 400,
 			body: "Missing parameter 'listingId'",
@@ -28,7 +28,7 @@ export const handler: Handler = async (event) => {
 
 	try {
 		const getListingImages = await fetch(
-			`https://openapi.etsy.com/v3/application/shops/${process.env.ETSY_SHOP_ID}/listings/${listingId}/images`,
+			`https://openapi.etsy.com/v3/application/listings/batch?listing_ids=${listingIds}&includes=images`,
 			{
 				headers: {
 					"x-api-key": process.env.ETSY_API_KEY,
