@@ -1,7 +1,6 @@
 import { Link } from "gatsby";
 import { GatsbyImage, IGatsbyImageData } from "gatsby-plugin-image";
-import React, { ReactElement, useState } from "react";
-import { useEffect } from "react";
+import React, { ReactElement } from "react";
 
 export interface Item {
 	title: string;
@@ -11,7 +10,7 @@ export interface Item {
 			gatsbyImageData: IGatsbyImageData;
 		};
 	};
-	getImage?: () => Promise<string | undefined>;
+	imageURL?: string;
 	date?: string;
 }
 
@@ -41,24 +40,14 @@ const ListItem = (props: Item): ReactElement => {
 };
 
 export const ExternalListItem = (props: Item): ReactElement => {
-	const { title, date, url, getImage } = props;
-	const [image, setImage] = useState<string>();
-
-	useEffect(() => {
-		void (async () => {
-			if (getImage) {
-				const image = await getImage();
-				setImage(image);
-			}
-		})();
-	}, [getImage]);
+	const { title, date, url, imageURL } = props;
 
 	return (
 		<li className="m-auto py-4 md:p-4 h-96 w-full transform-gpu transition-transform hover:scale-105">
 			<div
 				style={{
 					backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(${
-						image ?? ""
+						imageURL ?? ""
 					})`,
 				}}
 				className="bg-cover bg-center h-full"
@@ -80,7 +69,7 @@ export const PostList = ({ items }: { items: Item[] }): ReactElement => {
 		<ul className="mt-6 grid lg:grid-cols-2 xl:grid-cols-3 md:mx-12">
 			{items.map((item) => {
 				return React.createElement(
-					item.getImage ? ExternalListItem : ListItem,
+					item.imageURL ? ExternalListItem : ListItem,
 					{ key: item.url, ...item },
 				);
 			})}
