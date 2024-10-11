@@ -2,20 +2,6 @@ import React from "react";
 import { Layout, PostList } from "../components";
 import { useProducts } from "../hooks";
 
-const fetchProductImage = async (
-	listingId: string,
-): Promise<string | undefined> => {
-	try {
-		const getListingImages = await fetch(
-			`/.netlify/functions/etsy-listing-images?listingId=${listingId}`,
-		);
-		const response = await getListingImages.json();
-		return (response.results?.[0]?.["url_570xN"] as string | null) ?? "";
-	} catch (ex) {
-		console.error(ex);
-	}
-};
-
 export default function Products(): React.ReactElement {
 	const { results: products, isLoading } = useProducts();
 
@@ -31,10 +17,10 @@ export default function Products(): React.ReactElement {
 				</div>
 			) : (
 				<PostList
-					items={products.map(({ listing_id, title, url }) => ({
+					items={products.map(({ title, url, imageURL }) => ({
 						title,
 						url,
-						getImage: () => fetchProductImage(listing_id),
+						imageURL,
 					}))}
 				/>
 			)}
