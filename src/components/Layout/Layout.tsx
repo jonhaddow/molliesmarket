@@ -24,7 +24,7 @@ export const Layout = (props: LayoutProps): ReactElement => {
 
 		script.setAttribute(
 			"data-cf-beacon",
-			'{"token": "bf66bc112e1b4b3bb4bd45139ce4d6d2"}',
+			'{"token": "d1cb2bd667b841838c511c8f357b6b26"}',
 		);
 
 		document.body.appendChild(script);
