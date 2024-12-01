@@ -17,9 +17,9 @@ There are two main sizing differences in cloth nappies.
 
 1. **Sized nappies** - These are similar to disposable nappies and come in a range of different sizes specific to the weight of your child. Most commonly they come in three sizes.
 
--   Size 1: 7 to 18lbs
--   Size 2: 18 to 35lbs
--   Size 3: 35lb +
+- Size 1: 7 to 18lbs
+- Size 2: 18 to 35lbs
+- Size 3: 35lb +
 
 These are often a better fit for your baby, meaning there are less leakages. However, this is a more costly option, as you will need to purchase more nappies each time your child grows to the next size.
 

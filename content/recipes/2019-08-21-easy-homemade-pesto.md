@@ -12,16 +12,16 @@ Here’s the recipe:
 
 ## Ingredients
 
--   60g Cashew nuts
--   140g Spinach
--   1 Garlic clove
--   5 tbsp Olive oil
--   2 tbsp Lemon juice
--   Salt and pepper to taste (leave salt out if serving to babies)
+- 60g Cashew nuts
+- 140g Spinach
+- 1 Garlic clove
+- 5 tbsp Olive oil
+- 2 tbsp Lemon juice
+- Salt and pepper to taste (leave salt out if serving to babies)
 
 ## Method
 
--   Simply add all the ingredients to a food processor and blend!
+- Simply add all the ingredients to a food processor and blend!
 
 This pesto can be covered and stored in the fridge. Old jam jars are great for storage. It should last longer than shop bought varieties of pesto, especially if a layer of olive oil is added to the top!
 

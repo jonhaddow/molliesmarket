@@ -37,12 +37,12 @@ Firstly, here are the items I would advise purchasing if you are planning on usi
 
 ### Essential reusable nappy tips
 
--   Do not use fabric softener as it reduces the absorbency of the nappies.
--   Using tumble dryers can wear the nappies down faster, and increases the carbon emissions of using cloth nappies.
--   Get into the habit of changing nappies frequently, every 2-4 hours.
--   For night time nappy use, use extra boosters for more absorbency.
--   Use the sun as a natural way of drying and stain removal!
--   The absorbency of the nappies increases over time. This means that new nappies should be washed at least once before use, and to expect it to take a couple of washes before they are fully absorbent.
+- Do not use fabric softener as it reduces the absorbency of the nappies.
+- Using tumble dryers can wear the nappies down faster, and increases the carbon emissions of using cloth nappies.
+- Get into the habit of changing nappies frequently, every 2-4 hours.
+- For night time nappy use, use extra boosters for more absorbency.
+- Use the sun as a natural way of drying and stain removal!
+- The absorbency of the nappies increases over time. This means that new nappies should be washed at least once before use, and to expect it to take a couple of washes before they are fully absorbent.
 
 ---
 
@@ -50,19 +50,19 @@ Firstly, here are the items I would advise purchasing if you are planning on usi
 
 _**Nappies need to be soaked in water before washing**_
 
--   This is no longer needed! Washing with non-bio detergent is enough to get them clean. Extra laundry cleansers can be used to keep them stain free if required.
+- This is no longer needed! Washing with non-bio detergent is enough to get them clean. Extra laundry cleansers can be used to keep them stain free if required.
 
 **_They are more hassle and time consuming_**
 
--   I haven’t found this to be true! I wash the nappies every two days, in the evening and put them out to dry on the radiators before bed! It takes 10 minutes in total to put the washing machine on and nappies out!
+- I haven’t found this to be true! I wash the nappies every two days, in the evening and put them out to dry on the radiators before bed! It takes 10 minutes in total to put the washing machine on and nappies out!
 
 **_You have to spend time scraping poop out the nappies_**
 
--   This isn’t the case! If disposable liners are used they catch most or all of the poo! This means they just need to be removed, disposed of and the nappies can go straight in the nappy bin, ready for washing.
+- This isn’t the case! If disposable liners are used they catch most or all of the poo! This means they just need to be removed, disposed of and the nappies can go straight in the nappy bin, ready for washing.
 
 **_They leak, and need to be changed frequently_**
 
--   We use Bambino mio all in one nappies, and i have not experienced leaking so far! Our one year old uses these through the night, for approximately 12 hours, and we have not had any leaks. We use these with an extra booster layer.
+- We use Bambino mio all in one nappies, and i have not experienced leaking so far! Our one year old uses these through the night, for approximately 12 hours, and we have not had any leaks. We use these with an extra booster layer.
 
 ---
 

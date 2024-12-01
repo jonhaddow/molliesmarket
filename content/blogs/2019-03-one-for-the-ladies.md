@@ -38,16 +38,16 @@ I do think that it does take some getting used to, and a few attempts at using t
 
 ## Other benefits of menstrual cups
 
--   **You will save money overall –** It is approximately £20 to purchase a menstrual cup, but depending on the brand and type of cup you use, it could last up to 10 years before it needs replacing. This will save you a lot of money in the long run!
--   **The cups hold more fluids –** Menstrual cups are great for any stage of your period, and can hold more fluids than tampons. They can be left in for slightly longer, are great for night time use, and don’t have a drying out effect.
--   **Less leakages –** As long as the correct sized menstrual cup is used, a seal is created, decreasing the chance of leakages.
--   **Decreased chance of Toxic Shock Syndrome –** Some research suggests that there is a reduced chance of TSS when using menstrual cups compared with using tampons. However, it’s important to be cautious, changing the cup regularly and keeping it clean (It’s good to boil the cup, or use sterilising formula between periods to keep it clean)
--   **Always available when needed –** No worries of running out of tampons or pads, and needing to do last minute shopping.
+- **You will save money overall –** It is approximately £20 to purchase a menstrual cup, but depending on the brand and type of cup you use, it could last up to 10 years before it needs replacing. This will save you a lot of money in the long run!
+- **The cups hold more fluids –** Menstrual cups are great for any stage of your period, and can hold more fluids than tampons. They can be left in for slightly longer, are great for night time use, and don’t have a drying out effect.
+- **Less leakages –** As long as the correct sized menstrual cup is used, a seal is created, decreasing the chance of leakages.
+- **Decreased chance of Toxic Shock Syndrome –** Some research suggests that there is a reduced chance of TSS when using menstrual cups compared with using tampons. However, it’s important to be cautious, changing the cup regularly and keeping it clean (It’s good to boil the cup, or use sterilising formula between periods to keep it clean)
+- **Always available when needed –** No worries of running out of tampons or pads, and needing to do last minute shopping.
 
 ## Cons of menstrual cups
 
--   **Takes some getting used to –** It takes a while to perfect the process of inserting and removing the cup. This means it may take a couple of months before you’re confident enough to use them out and about.
--   **Can be a bit scary at first –** I was very worried when first using the cup, but made sure i read all the instructions and kept calm. I found it was actually super easy to use!
--   **They require a bit more maintenance –** They need to be kept clean (as mentioned above) and stored properly, which means a bit more time is spent than with disposable products.
+- **Takes some getting used to –** It takes a while to perfect the process of inserting and removing the cup. This means it may take a couple of months before you’re confident enough to use them out and about.
+- **Can be a bit scary at first –** I was very worried when first using the cup, but made sure i read all the instructions and kept calm. I found it was actually super easy to use!
+- **They require a bit more maintenance –** They need to be kept clean (as mentioned above) and stored properly, which means a bit more time is spent than with disposable products.
 
 When your period is at its heaviest, reusable period pads can also be useful to catch any leaks, especially at night. These are just put into the wash, and reused!

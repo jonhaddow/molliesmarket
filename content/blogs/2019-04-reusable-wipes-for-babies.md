@@ -31,9 +31,9 @@ Despite requiring a little more time and effort, reusable wet wipes are cheaper 
 
 There are many different types of wipe available to buy, ranging from dirt cheap, to higher quality, more expensive types. These include:
 
--   Fleece wipes – These are one of the cheapest types, and are popular when making DIY wipes as they do not require any sewing to prevent fraying. However, these can smear mess and so more wipes are needed during clean ups.
--   Microfibre wipes – These are also relatively cheap. They are very absorbent and remove waste easily and effectively.
--   Bamboo wipes – These are the most expensive, but are incredibly soft, and are great for newborn babies. They also work well at removing waste.
+- Fleece wipes – These are one of the cheapest types, and are popular when making DIY wipes as they do not require any sewing to prevent fraying. However, these can smear mess and so more wipes are needed during clean ups.
+- Microfibre wipes – These are also relatively cheap. They are very absorbent and remove waste easily and effectively.
+- Bamboo wipes – These are the most expensive, but are incredibly soft, and are great for newborn babies. They also work well at removing waste.
 
 To save some extra cash, you can make wet wipes out of any fabrics you have at home. The most useful are old t-shirts, fleece blankets or towels. You can even buy handmade wipes on ebay, which are also very cheap. So don’t feel like you have to spend more money buying branded wipes.
 
@@ -45,9 +45,9 @@ When transitioning to reusable wipes there are some items that make the process 
 Some people opt for more expensive kits, like those by cheeky wipes, but we just made our own kit to save a bit of money.
 Items we use:
 
--   30- 50 wipes – We have different coloured wipes so that we can ‘colour code’ them. This helps separate the wipes used for bottoms and those that are used for hands and faces.
--   Plastic wipe container – This is one of the sturdy, reusable ones. We have two of these, one with wipes for face and hands, that we keep in the dining room. The other for bottoms, that we keep at the nappy changing station.
--   A small wet bag – We use this to take clean wipes out and about with us. It’s also handy to have another for dirty wipes, or alternatively, if you also use reusable nappies, just pop the dirty wipes in with the dirty nappies.
+- 30- 50 wipes – We have different coloured wipes so that we can ‘colour code’ them. This helps separate the wipes used for bottoms and those that are used for hands and faces.
+- Plastic wipe container – This is one of the sturdy, reusable ones. We have two of these, one with wipes for face and hands, that we keep in the dining room. The other for bottoms, that we keep at the nappy changing station.
+- A small wet bag – We use this to take clean wipes out and about with us. It’s also handy to have another for dirty wipes, or alternatively, if you also use reusable nappies, just pop the dirty wipes in with the dirty nappies.
 
 ---
 
@@ -65,10 +65,10 @@ There are a few ways reusable wipes can be used, and these can be tried and test
 
 ## Washing
 
--   Without fabric softener
--   Wash between 40-60 degrees
--   Wipes do not need to be soaked
--   Wipes used to clean faces and hands can be washed with normal laundry.
+- Without fabric softener
+- Wash between 40-60 degrees
+- Wipes do not need to be soaked
+- Wipes used to clean faces and hands can be washed with normal laundry.
 
 Once used we stick the wipes in the nappy bin with the reusable nappies, so it doesn’t add any extra hassle to us in terms of washing schedules. Otherwise store them in a laundry bag, and wash every few days, or as needed.
 

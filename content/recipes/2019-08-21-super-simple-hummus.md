@@ -8,12 +8,12 @@ This is another super simple recipe that takes under ten minutes to make. This h
 
 ## Ingredients
 
--   1 x 400g tin of chickpeas, drained and rinsed
--   1 tbsp lemon juice
--   2 tbsp tahini
--   4-5 tbsp olive oil (start with 4, and add more in necessary)
--   2 garlic cloves, crushed
--   Salt to taste
+- 1 x 400g tin of chickpeas, drained and rinsed
+- 1 tbsp lemon juice
+- 2 tbsp tahini
+- 4-5 tbsp olive oil (start with 4, and add more in necessary)
+- 2 garlic cloves, crushed
+- Salt to taste
 
 You can also add 1 teaspoon of cumin and ½ a teaspoon of chilli powder if you like a spicier hummus. This goes well with falafel or veggie burgers.
 
