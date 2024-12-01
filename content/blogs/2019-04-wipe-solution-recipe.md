@@ -18,11 +18,11 @@ When using reusable wet wipes, some people choose to store wipes in a solutions,
 
 ## Recipe
 
--   1 ½ cups of water (I use water that has previously been boiled)
--   2 tbsp baby body wash or shampoo
--   2 tbsp baby oil
--   2 drops of lavender essential oil
--   2 drops of tea tree essential oil
+- 1 ½ cups of water (I use water that has previously been boiled)
+- 2 tbsp baby body wash or shampoo
+- 2 tbsp baby oil
+- 2 drops of lavender essential oil
+- 2 drops of tea tree essential oil
 
 The essential oils should be added in smaller quantities, or not at all for newborn babies, as their skin is very sensitive. However, they do give many benefits for older babies.
 
