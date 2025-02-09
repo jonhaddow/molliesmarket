@@ -70,7 +70,7 @@ export const useProducts = (): { results: Product[]; isLoading: boolean } => {
 				}
 
 				setProducts(results);
-			} catch (ex) {
+			} catch {
 				console.error("Failed to fetch etsy listings");
 				setProducts([]);
 			}
